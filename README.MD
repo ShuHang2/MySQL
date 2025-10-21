@@ -4,6 +4,8 @@
 
 MySQL安装以及一些指令的使用
 
+环境：Windows10
+
 ## 目录
 
 1. [MySQL安装&配置](1.%20MySQL安装&配置.md)
@@ -15,3 +17,4 @@ MySQL安装以及一些指令的使用
 
 1. [teachsys数据库](other/teachsys.md)
 2. [创建表中AS的含义](other/创建表中AS的含义.md)
+3. [Sqlite3环境配置](other/Sqlite3.md)
