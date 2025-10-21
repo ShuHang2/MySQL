@@ -1,4 +1,4 @@
-# MySQL安装及基本操作
+# MySQL基本操作
 
 ## 作者：ShuHang2@qq.com
 
